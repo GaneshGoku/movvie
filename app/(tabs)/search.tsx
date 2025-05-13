@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 const search = () => {
   return (
     <View>
-      <Text></Text>
+      <Text>Basic search option</Text>
     </View>
   )
 }

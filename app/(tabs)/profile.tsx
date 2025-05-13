@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 const profile = () => {
   return (
     <View>
-      <Text></Text>
+      <Text>Shows profile of the user</Text>
     </View>
   )
 }

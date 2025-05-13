@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native'
 const saved = () => {
   return (
     <View>
-      <Text></Text>
+      <Text>Saved movies move here</Text>
     </View>
   )
 }
